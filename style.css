@@ -1,0 +1,32 @@
+title {
+    font-size: 20px;
+    color: green;
+    text-align: center;
+}
+body {
+    background-color: firebrick;
+    font-style: oblique;
+}
+body p {
+    font-size: 15px;
+    text-align: center;
+}
+body p ol li ul {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+img{
+    text-align: center;
+    border: 4px;
+    margin: auto;
+    display: block;
+}
+* { 
+    position: relative;
+    Margin-left: 5px;
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #999;
+}
