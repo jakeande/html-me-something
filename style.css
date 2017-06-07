@@ -1,15 +1,15 @@
 body {
     background-color: black;
     font-style: oblique;
-    text-align: relative;
-    
+    text-align: left;
+
 }
 h1 {
     font-size: 50px;
     text-align: center;
     font-weight: bold;
     font-family: times;
- 
+
 }
 .jobs {
     text-align: center;
@@ -33,7 +33,7 @@ img{
     margin: auto;
     display: block;
 }
-* { 
+* {
     position: relative;
     margin-right:  10px;
     margin-top:  10px;
