@@ -1,32 +1,42 @@
-title {
-    font-size: 20px;
-    color: green;
-    text-align: center;
-}
 body {
-    background-color: firebrick;
+    background-color: black;
     font-style: oblique;
+    text-align: relative;
+    
 }
-body p {
-    font-size: 15px;
+h1 {
+    font-size: 50px;
     text-align: center;
+    font-weight: bold;
+    font-family: times;
+ 
 }
-body p ol li ul {
+.jobs {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: blue;
+}
+#work{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+#post-work{
     text-align: center;
     font-weight: bold;
     font-size: 20px;
 }
 img{
     text-align: center;
-    border: 4px;
+    border: solid black 4px;
     margin: auto;
     display: block;
 }
 * { 
     position: relative;
-    Margin-left: 5px;
-    margin-top: 5px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    margin-right:  10px;
+    margin-top:  10px;
+    margin-left: 10px;
     background-color: #999;
 }
